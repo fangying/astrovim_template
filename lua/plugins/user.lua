@@ -88,4 +88,9 @@ return {
     "liuchengxu/space-vim-theme",
     name = "space-vim-theme",
   },
+
+  {
+    "liuchengxu/space-vim-dark",
+    name = "spave-vim-dark",
+  },
 }
