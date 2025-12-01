@@ -23,6 +23,7 @@ return {
           "python",
           "rust",
           "java",
+          "go"
         },
         ignore_filetypes = { -- disable format on save for specified filetypes
           "c",
