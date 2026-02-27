@@ -9,6 +9,6 @@ return {
   ---@type AstroUIOpts
   opts = {
     -- change colorscheme
-    colorscheme = "space-vim-dark",
+    colorscheme = "github_dark_colorblind",
   },
 }
