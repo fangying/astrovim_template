@@ -11,5 +11,7 @@ return {
   { import = "astrocommunity.recipes.vscode-icons" },
   { import = "astrocommunity.recipes.heirline-tabline-buffer-number" },
   { import = "astrocommunity.motion.hop-nvim" },
+  { import = "astrocommunity.recipes.ai" },
+  { import = "astrocommunity.completion.copilot-lua-cmp"}
   -- import/override with your plugins folder
 }
